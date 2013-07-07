@@ -1,5 +1,7 @@
-demo-md
-=======
+---
+layout: post
+title: Blogging Like a Hacker
+---
 
 ### What's here?
 
